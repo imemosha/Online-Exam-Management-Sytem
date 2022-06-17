@@ -1,0 +1,22 @@
+.widthh{
+	width:100%;
+}
+.widthh .verysmallwidth{
+	width:30%;
+	border-radius: 0px;
+}
+.widthh .smallwidth{
+	width:49%;
+	border-radius: 0px;
+}
+.infotrans{
+	background-color:rgba(23, 162, 184, 0.2);
+
+}
+.darktrans{
+	background-color:rgba(0, 0, 0, 0.2);
+
+}
+.dangertrans{
+	background-color:rgba(220, 53, 69, 0.2);
+}

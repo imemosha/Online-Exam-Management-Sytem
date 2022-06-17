@@ -1,0 +1,32 @@
+body{
+	background-color: #cccccc;
+}
+
+.header{
+	background-color: #545aaa;
+	height: 50px;
+}
+
+.menu{
+	background-color: #aaa545;
+	height: 30px;
+}
+
+.left{
+	background-color: #54aa54;
+	height: 700px;
+}
+
+.content{
+	background-color: #0055aa;
+	height: 700px;
+}
+.right{
+	background-color: #aa5421;
+	height: 700px;
+}
+
+.footer{
+	background-color: #ccc666;
+	height: 30px;
+}
